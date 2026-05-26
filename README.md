@@ -13,8 +13,6 @@ Sistema inteligente de control de aforo en tiempo real usando visión por comput
 
 # Descripción
 
-# Descripción
-
 SecureEntry es un sistema inteligente de control de aforo que utiliza visión por computadora e inteligencia artificial para detectar y contar personas en tiempo real mediante una cámara.
 
 El sistema fue desarrollado en Python utilizando YOLOv8 y OpenCV para la detección de personas.
