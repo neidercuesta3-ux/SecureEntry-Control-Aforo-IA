@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+venv/
+.idea/
+.vscode/
+
+# Modelos pesados
+yolov8n.pt
+*.caffemodel
+
+# ZIPs
+*.zip
+
+# Archivos temporales
+*.log
