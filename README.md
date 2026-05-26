@@ -156,6 +156,4 @@ python ProyectoV3.py
 
 ---
 
-# Proyecto académico
-
 Proyecto desarrollado con fines educativos y académicos.
