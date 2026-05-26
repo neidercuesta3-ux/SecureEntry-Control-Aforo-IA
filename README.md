@@ -45,8 +45,11 @@ dependiendo del estado del aforo.
 
 ---
 
+--
+
 # Estructura del proyecto
 
+```txt
 SecureEntry-Control-Aforo-IA/
 │
 ├── ProyectoV3.py
