@@ -68,7 +68,7 @@ SecureEntry-Control-Aforo-IA/
 ## 1. Clonar repositorio
 
 ```bash
-git clone https://github.com/TU-USUARIO/SecureEntry-Control-Aforo-IA.git
+git clone https://github.com/neidercuesta3-ux/SecureEntry-Control-Aforo-IA.git
 ```
 
 ---
